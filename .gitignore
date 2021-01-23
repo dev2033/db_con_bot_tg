@@ -1,0 +1,9 @@
+anketa.db
+__pycache__/
+__pycache__
+venv
+venv/
+env
+env/
+.idea
+.idea/
